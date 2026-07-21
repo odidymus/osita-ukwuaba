@@ -3,8 +3,6 @@
 A responsive research portfolio for Osita Ukwuaba, PhD student in Electrical
 and Computer Engineering at Rochester Institute of Technology.
 
-The site is a static Next.js export intended for GitHub and Cloudflare Pages.
-It has no database, authentication layer, server-side API, or runtime secrets.
 
 ## Local development
 
