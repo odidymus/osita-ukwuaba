@@ -24,7 +24,7 @@ export default function Home() {
     <section className="hero" id="top">
       <div className="hero-copy">
         <p className="eyebrow">PhD researcher · Rochester Institute of Technology</p>
-        <h1>Building AI systems that remain reliable when the real world gets messy.</h1>
+        <h1>Building dependable AI systems for an imperfect world.</h1>
         <p className="hero-intro">I develop testing, evaluation, and fault-tolerance methods for intelligent systems—from neuromorphic hardware and spiking neural networks to advanced AI control.</p>
         <div className="hero-actions"><a className="button primary" href="#research">Explore my research</a><a className="button secondary" href="/cv">View CV <Arrow /></a></div>
       </div>
