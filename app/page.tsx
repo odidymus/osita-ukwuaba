@@ -57,7 +57,7 @@ export default function Home() {
       <article><time>2010—2024</time><div><h3>Software and product engineering</h3><p>Built and led production software systems across education, analytics, and full-stack product development.</p></div></article>
     </div></section>
 
-    <section className="section contact-section" id="contact"><div><p className="eyebrow">Contact</p><h2>Let’s discuss dependable AI.</h2><p>I welcome conversations about research collaboration, internships, and applied AI assurance.</p></div><div className="contact-links"><a href="mailto:ou1684@rit.edu">ou1684@rit.edu <Arrow /></a><a href="https://www.linkedin.com/in/osita-ukwuaba/" target="_blank" rel="noreferrer">LinkedIn <Arrow /></a><a href="https://github.com/ositaukwuaba" target="_blank" rel="noreferrer">GitHub <Arrow /></a></div></section>
+    <section className="section contact-section" id="contact"><div><p className="eyebrow">Contact</p><h2>Let’s discuss dependable AI.</h2><p>I welcome conversations about research collaboration, internships, and applied AI assurance.</p></div><div className="contact-links"><a href="mailto:ou1684@rit.edu">ou1684@rit.edu <Arrow /></a><a href="https://www.linkedin.com/in/osita-ukwuaba/" target="_blank" rel="noreferrer">LinkedIn <Arrow /></a><a href="#" target="_blank" rel="noreferrer">GitHub <Arrow /></a></div></section>
     <footer><span>© 2026 Osita Ukwuaba</span><span>Dependable AI · Neuromorphic Computing · AI Control &amp; Evaluations</span></footer>
   </main>;
 }
